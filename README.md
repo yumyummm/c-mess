@@ -17,7 +17,7 @@
 
 ## 2025-03-07
 
-    -while문 예제 따라하기 -one2temdowhile.c
+  - while문 예제 따라하기 -one2temdowhile.c
 
 ## 2025-03-10
 
